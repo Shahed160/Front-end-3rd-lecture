@@ -1,0 +1,38 @@
+#navbar{
+    background-color: black;
+}
+#navbar img{
+    width:110px;
+    border-radius:50px;
+    margin-left:50px;
+    margin-top:20px;
+
+}
+.navlist{
+    list-style: none;
+    display:inline-flex;
+    float:right;
+    margin-top: 50px;
+}
+.navlist li {
+    margin-right: 50px;
+}
+.navbutton{
+    font-size:20px;
+    padding:  5px;
+    border-radius: 20px;
+}
+.navlist1{
+    list-style: none;
+    
+    float:right;
+    margin-top: 50px;
+}
+.navlist1 li {
+    margin-right: 50px;
+}
+.navbutton1{
+    font-size:20px;
+    padding:  5px;
+    border-radius: 20px;
+}
