@@ -22,16 +22,20 @@
     padding:  5px;
     border-radius: 20px;
 }
-.navlist1{
-    list-style: none;
-    
-    float:right;
-    margin-top: 50px;
+.footer{
+    list-style:none;
+    position:absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align:right;
 }
-.navlist1 li {
+.footer li {
     margin-right: 50px;
 }
-.navbutton1{
+.footerbutton1{
     font-size:20px;
     padding:  5px;
     border-radius: 20px;
